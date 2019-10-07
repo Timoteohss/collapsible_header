@@ -62,7 +62,6 @@ class _MyAppState extends State<MyApp> {
                   ),
                 ),
                 body: Container(
-
                   child: Center(
                     child: Text("This is anything you can imagine.")
                   ),
